@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/baryhuang-mcp-unipile-badge.png)](https://mseep.ai/app/baryhuang-mcp-unipile)
+
 # Unipile MCP Server
 
 MCP server for using Unipile to access messages across multiple messaging platforms.
